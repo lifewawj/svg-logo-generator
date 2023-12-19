@@ -61,4 +61,6 @@ function writeToFile(fileName, data) {
 }
 
 // TODO: A function to init the app
-
+function init() {
+    
+}
