@@ -1,0 +1,5 @@
+# Ignores all files within the node_modules
+node_modules/
+
+# Ignores the Challenge Folder
+Challenge/
