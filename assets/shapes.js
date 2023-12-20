@@ -46,13 +46,10 @@ class Triangle extends Shape {
 function createUserShape(shapeType, shapeColor) {
     switch (shapeType.toLowerCase()) {
         case 'square':
-            console.log("User selected Square shape");
             return new Square(shapeColor);
         case 'circle':
-            console.log("User selected Circle shape");
             return new Circle(shapeColor);
         case 'triangle':
-            console.log("User selected Triangle shape");
             return new Triangle(shapeColor);
         default:
             console.log("Invalid shape!");

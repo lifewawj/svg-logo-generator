@@ -59,7 +59,7 @@ class UserInput {
 // A function to generate answers
 // The 'async' keyword is used because we await the user's input from the 'getUserInput()' function.
 async function generateAnswers() {
-
+    console.log("SVG Logo Generator App is starting...");
     // create a const to use for the UserInput Class
     const userInput = new UserInput();
 

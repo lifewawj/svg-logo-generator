@@ -6,7 +6,7 @@ const { UserInput, generateAnswers } = require('./assets/answers.js');
 // A function to write the .svg file with the data
 function writeToFile(fileName, data) {
     fs.writeFile(fileName, data, (err) => {
-        err ? console.log(err) : console.log("Success!");
+        err ? console.log(err) : console.log("Your SVG Logo is done Generating! 🥳");
     });
 }
 
@@ -31,6 +31,7 @@ function generateLogo(userInput) {
             // Renders the User's Logo with complete SVG syntax
             svg.render();
 
+            console.log("Writing shape to File")
             // Writes the rendered SVG syntax to a file named "logo.svg"
             writeToFile("logo.svg", svg.render());
         }
