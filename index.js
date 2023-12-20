@@ -1,7 +1,7 @@
 // NPM Packages needed for project
 const fs = require('fs');
-const { createUserShape, Svg } = require('./shapes.js');
-const { UserInput, generateAnswers } = require('./answers.js');
+const { createUserShape, Svg } = require('./assets/shapes.js');
+const { UserInput, generateAnswers } = require('./assets/answers.js');
 
 // A function to write the .svg file with the data
 function writeToFile(fileName, data) {
