@@ -25,8 +25,8 @@ SO THAT I don't have to pay a graphic designer
 Make sure to have NodeJS, NPM, and Inquirer @ 8.2.4 installed to use the application.
 
 ## Usage
-[SVG Tutorial](SVG_tutorial.webm)
-
+![SVG Tutorial gif](assets/SVG_tutorial.gif)
+<video src="assets/SVG_tutorial.mp4" controls title="Title"></video>
 
 ## Credits
 
