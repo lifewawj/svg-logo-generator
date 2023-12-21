@@ -26,7 +26,7 @@ Make sure to have NodeJS, NPM, and Inquirer @ 8.2.4 installed to use the applica
 
 ## Usage
 ![SVG Tutorial gif](assets/SVG_tutorial.gif)
-<video src="assets/SVG_tutorial.mp4" controls title="Title"></video>
+[![Click here to Download Tutorial Video](./assets/SVG_tutorial.mp4)]
 
 ## Credits
 
