@@ -3,3 +3,7 @@ node_modules/
 
 # Ignores the Challenge Folder
 challenge/
+
+# Ignores the assets folder
+assets/
+
