@@ -5,8 +5,7 @@
 Create a customizable logo effortlessly with my SVG Logo Generator. Being able to customized the text (1-3 Characters long), choose a shape (Square, Circle, & Triangle), and pick a text & shape color of your choice!
 
 ## What I have learned
-- 'async' function
-- 'await' keyword
+- 'async' function & the 'await' keyword:  Explained how I used it on my code
 - OOP 'Object-Oriented Programming
 
 ## Table of Contents
