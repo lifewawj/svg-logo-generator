@@ -25,7 +25,7 @@ SO THAT I don't have to pay a graphic designer
 Make sure to have NodeJS, NPM, and Inquirer @ 8.2.4 installed to use the application.
 
 ## Usage
-
+[SVG Tutorial](SVG_tutorial.webm)
 
 
 ## Credits
