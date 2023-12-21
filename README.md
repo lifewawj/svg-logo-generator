@@ -4,11 +4,6 @@
 
 Create a customizable logo effortlessly with my SVG Logo Generator. Being able to customized the text (1-3 Characters long), choose a shape (Square, Circle, & Triangle), and pick a text & shape color of your choice!
 
-## User Story
-AS a freelance web developer
-I WANT to generate a simple logo for my projects
-SO THAT I don't have to pay a graphic designer
-
 ## What I have learned
 - 'async' function
 - 'await' keyword
